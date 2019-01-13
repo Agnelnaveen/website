@@ -703,7 +703,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Manoeuvreservices – Anyone Can Startup",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://manoeuvreservices.com/\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
@@ -719,7 +719,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Make Something People Want",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"http://manoeuvreservices.com/\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a> "
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
